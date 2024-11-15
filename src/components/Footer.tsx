@@ -1,4 +1,4 @@
-import { FaInstagram, FaLinkedin} from 'react-icons/fa';
+import { FaInstagram, FaLinkedin, FaGithub} from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -20,6 +20,15 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
+            className="text-gray-600 hover:text-blue-500"
+          >
+            <FaLinkedin className="w-14 h-14" />
+          </a>
+          <a
+            href="https://github.com/EMTDavid"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="GitHub"
             className="text-gray-600 hover:text-blue-500"
           >
             <FaLinkedin className="w-14 h-14" />

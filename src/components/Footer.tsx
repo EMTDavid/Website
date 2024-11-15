@@ -7,7 +7,7 @@ const Footer = () => {
         {/* <h2 className="text-lg font-semibold text-gray-700">Follow Me</h2> */}
         <div className="flex justify-center space-x-6 mt-4">
           <a
-            href="https://www.instagram.com/emtdavid233/?locale=pl&hl=am-et"
+            href="https://www.instagram.com/emtdavid233/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"

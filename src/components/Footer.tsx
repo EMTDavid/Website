@@ -31,7 +31,7 @@ const Footer = () => {
             aria-label="GitHub"
             className="text-gray-600 hover:text-blue-500"
           >
-            <FaLinkedin className="w-14 h-14" />
+            <FaGithub className="w-14 h-14" />
           </a>
         </div>
         <p className="text-gray-500 mt-4 text-sm">

@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md w-full fixed top-0 left-0">
       <div className="container mx-auto px-4 py-4 flex justify-start items-center space-x-6">
-        <ul className="flex space-x-4 text-gray-600">
+        <ul className="flex space-x-6 text-gray-600 text-xl">
           <li>
             <Link href="/" className="hover:text-blue-600 font-bold font-serif">
               Home

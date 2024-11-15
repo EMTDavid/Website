@@ -34,7 +34,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. fuck</li>
+          <li>FUCK</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">

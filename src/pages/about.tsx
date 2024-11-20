@@ -10,16 +10,15 @@ const About = () => {
           About Me
         </h1>
         <p className="mt-4 text-lg text-gray-600 text-center max-w-2xl">
-          Welcome! I’m someone deeply fascinated by the exploration of 
-          <span className="text-indigo-600 font-semibold"> metaphysics</span>—the profound study of existence, 
-          consciousness, and the underlying principles of reality. 
+          Hi! My name is David Han. I'm a student majoring in Mathematics, Philosophy, and Japanese at University of Wisconsin-Madison.
+          I'm interested in <span className="text-indigo-600 font-semibold"> Metaphysics</span>—, and <span className="text-indigo-600 font-semibold"> Mathematical Logic</span>
+          - the study of 
         </p>
         <p className="mt-4 text-lg text-gray-600 text-center max-w-2xl">
-          By merging philosophy, abstract mathematics, and the natural world, I aim to unravel the interconnectedness of our universe. 
-          This site serves as a space to share my reflections, inspirations, and discoveries as I delve into the mysteries of being.
+          Besides academic, I'm interested in Japanese culture, specificlly reading mangas and cooking Japanese. I also play a lot of Counter-Strike 2, currently the In-Game Leader for Badger CS2 team.
         </p>
         <p className="mt-4 text-lg text-gray-600 text-center max-w-2xl">
-          I believe in the beauty of elegant thought and the timeless wisdom that shapes our understanding of the cosmos. Join me as we explore the boundaries of thought and reason.
+          I believe in the beauty of elegant thought and the timeless wisdom that shapes our understanding of the world,
         </p>
       </main>
       <Footer />
